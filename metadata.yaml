@@ -1,0 +1,23 @@
+_repo: Newspaper-Writing-and-Editing_65884
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bleyer, Willard Grosvenor
+    alias: Bleyer, Daddy
+    birthdate: 1873
+    deathdate: 1935
+    gutenberg_agent_id: '6220'
+    url: http://www.gutenberg.org/2009/agents/6220
+description: ''
+gutenberg_issued: '2021-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65884'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Newspaper Writing and Editing
+url: http://www.gutenberg.org/ebooks/65884
